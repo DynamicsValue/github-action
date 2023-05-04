@@ -145,17 +145,17 @@ This PAT should have repo scope and is only required if you have configured to s
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/michael-spengler">
-            <img src="https://avatars.githubusercontent.com/u/43786652?v=4" width="100;" alt="michael-spengler"/>
-            <br />
-            <sub><b>Michael Spengler</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ibakshay">
             <img src="https://avatars.githubusercontent.com/u/33329946?v=4" width="100;" alt="ibakshay"/>
             <br />
             <sub><b>Akshay Iyyadurai Balasundaram</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/michael-spengler">
+            <img src="https://avatars.githubusercontent.com/u/43786652?v=4" width="100;" alt="michael-spengler"/>
+            <br />
+            <sub><b>Michael Spengler</b></sub>
         </a>
     </td>
     <td align="center">
@@ -278,13 +278,6 @@ This PAT should have repo scope and is only required if you have configured to s
             <img src="https://avatars.githubusercontent.com/u/2838819?v=4" width="100;" alt="AndrewGable"/>
             <br />
             <sub><b>Andrew Gable</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/knanao">
-            <img src="https://avatars.githubusercontent.com/u/50069775?v=4" width="100;" alt="knanao"/>
-            <br />
-            <sub><b>Knanao</b></sub>
         </a>
     </td>
     <td align="center">
